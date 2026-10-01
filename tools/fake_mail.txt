@@ -1,0 +1,20 @@
+
+========== 15:44:05 ==========
+From: no-reply@bookstore.local
+To:   tester.otp@gmail.com
+Date: Thu, 24 Sep 2026 15:44:05 +0700 (GMT+07:00)
+From: no-reply@bookstore.local
+To: tester.otp@gmail.com
+Message-ID: <946744327.0.1790239445516@LAPTOP-K3IEINNS>
+Subject: Ma OTP kich hoat tai khoan - Bookstore 24162122
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Xin chao Nguyen Van Test,
+
+Ma OTP kich hoat tai khoan cua ban la: 031085
+Ma co hieu luc trong 5 phut.
+
+ neu ban khong dang ky, hay bo qua email nay.
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemesh>
+    <!-- Prefix tự động nối trước tên decorator (SiteMesh 3.2) -->
+    <decorator-prefix>/WEB-INF/decorators/</decorator-prefix>
+
+    <!-- Decorator cho các trang người dùng (mặc định) -->
+    <mapping path="/*" decorator="main.jsp"/>
+
+    <!-- Decorator riêng cho trang quản trị (admin) -->
+    <mapping path="/admin" decorator="admin.jsp"/>
+    <mapping path="/admin/*" decorator="admin.jsp"/>
+
+    <!-- Không trang trí các tài nguyên tĩnh -->
+    <mapping path="/css/*" exclude="true"/>
+    <mapping path="/js/*" exclude="true"/>
+    <mapping path="/images/*" exclude="true"/>
+</sitemesh>
